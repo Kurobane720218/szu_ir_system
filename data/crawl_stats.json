@@ -1,0 +1,13 @@
+{
+  "input": "data\\szu_research\\research_results.jsonl",
+  "out": "data\\szu_research_enriched",
+  "total": 322,
+  "processed": 322,
+  "success": 317,
+  "failed": 5,
+  "skipped": 0,
+  "engine": "playwright",
+  "channel": "msedge",
+  "elapsed_seconds": 4200.551,
+  "note": "v4: supports WeChat detail pages and SZU /pages/research/details?id=... pages"
+}

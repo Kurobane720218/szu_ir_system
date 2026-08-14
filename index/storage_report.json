@@ -1,0 +1,22 @@
+{
+  "num_docs": 322,
+  "vocab_size": 21441,
+  "num_term_doc_pairs": 36254,
+  "index_files_bytes": {
+    ".gitkeep": 0,
+    "compressed_postings_docids.pkl": 515525,
+    "dictionary.json": 1903505,
+    "doc_norms.pkl": 9032,
+    "docid_map.json": 8911,
+    "docs_meta.json": 7941832,
+    "field_index.pkl": 748405,
+    "kgram_index.pkl": 1987779,
+    "permuterm_index.pkl": 10465900,
+    "positional_index.pkl": 821310,
+    "postings.pkl": 1549160,
+    "README.txt": 281,
+    "storage_report.json": 677,
+    "tfidf.pkl": 939660
+  },
+  "storage_optimization": "compressed_postings_docids.pkl stores docID lists using gap encoding + Variable Byte encoding."
+}

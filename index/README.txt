@@ -1,0 +1,13 @@
+运行 build_index.py 后，本目录会生成：
+- docs_meta.json
+- dictionary.json
+- docid_map.json
+- postings.pkl
+- positional_index.pkl
+- field_index.pkl
+- tfidf.pkl
+- doc_norms.pkl
+- permuterm_index.pkl
+- kgram_index.pkl
+- compressed_postings_docids.pkl
+- storage_report.json
